@@ -4,10 +4,10 @@ theme_color:
 
 notice:
 
-favicon: /images/favicon.png
-banner: /images/banner.png
-avatar: /images/avatar.png
-# rss: /atom.xml
+favicon: /images/favicon.jpg
+banner: /images/banner.jpg
+avatar: /images/avatar.jpeg
+rss: /atom.xml
 
 email:
 sns:
