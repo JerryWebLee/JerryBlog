@@ -2,26 +2,26 @@ theme_color:
   primary: indigo
   accent: deep-orange
 
-notice:
+notice: '欢迎来到本站'
 
 favicon: /images/favicon.jpg
 banner: /images/banner.jpg
 avatar: /images/avatar.jpeg
 rss: /atom.xml
 
-email:
+email: jerryweblee@outlook.com
 sns:
   twitter:
   facebook:
   google_plus:
-  weibo:
+  weibo: https://m.weibo.cn/
   instagram:
   tumblr:
-  github:
+  github: https://github.com/JerryWebLee
   linkedin:
-  zhihu:
-  douban:
-  qq:
+  zhihu: https://www.zhihu.com/
+  douban: https://www.douban.com/
+  qq: 
   wechat:
 
 open_graph:
