@@ -1297,3 +1297,9 @@ img.avatar-animation:hover {
     transition: none !important;
   }
 }
+
+#veditor{
+  overflow: scroll !important;
+  height: auto !important;
+  resize: none;
+}
