@@ -78,14 +78,15 @@ comment:
   livere_data_uid:
   valine_leancloud_app_id: oAW1x27e1mh2AsPu7AumBdyx-gzGzoHsz
   valine_leancloud_app_key: sHC6RKIoiQa0mw4L7ixilf4q
-  valine_placeholder:
-  valine_page_size:
-  valine_avatar:
-  valine_lang:
-  valine_guest_info:
-  valine_notify:
-  valine_verify:
+  valine_placeholder: "期待留下你的评论!!"
+  valine_page_size: 10
+  valine_avatar: monsterid 
+  valine_lang: zh-cn
+  valine_guest_info: nick,mail,link
+  valine_notify: true
+  valine_verify: true
   valine_sid_type:
+  valine_count: true
   changyan_app_id:
   changyan_app_key:
   changyan_sid_type:
