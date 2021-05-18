@@ -68,7 +68,7 @@ search:
   path: /search.xml
   use: online
 comment:
-  use: false
+  use: valine
   disqus_shortname:
   gitalk_client_id:
   gitalk_client_secret:
@@ -76,8 +76,8 @@ comment:
   gitalk_owner:
   gitalk_sid_type:
   livere_data_uid:
-  valine_leancloud_app_id:
-  valine_leancloud_app_key:
+  valine_leancloud_app_id: oAW1x27e1mh2AsPu7AumBdyx-gzGzoHsz
+  valine_leancloud_app_key: sHC6RKIoiQa0mw4L7ixilf4q
   valine_placeholder:
   valine_page_size:
   valine_avatar:
