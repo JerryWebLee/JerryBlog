@@ -1302,4 +1302,10 @@ img.avatar-animation:hover {
   overflow: scroll !important;
   height: auto !important;
   resize: none;
+  background-color: #e4f2f8;
+  min-height: auto;
+}
+
+.vedit{
+  height: 140px;
 }

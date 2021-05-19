@@ -61,7 +61,7 @@ busuanzi:
   busuanzi_js: http://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js
 qrcode:
   caption: 发送到手机
-  use: online
+  use: plugin
 donate:
 search:
   placeholder: 请输入关键字
