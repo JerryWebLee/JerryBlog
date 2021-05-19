@@ -56,9 +56,9 @@ gallery:
   jquery_js: https://cdn.bootcss.com/jquery/3.3.1/jquery.min.js
   lazyload_js: https://cdn.bootcss.com/jquery_lazyload/1.9.7/jquery.lazyload.min.js
 busuanzi:
-  site: false
-  page: false
-  busuanzi_js: http://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js
+  site: true
+  page: true
+  # busuanzi_js: http://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js
 qrcode:
   caption: 发送到手机
   use: plugin
