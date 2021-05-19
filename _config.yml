@@ -125,3 +125,4 @@ live2d:
 		height: 300      #模型高度
 	mobile: 
 		show: false      #是否在手机端显示
+    

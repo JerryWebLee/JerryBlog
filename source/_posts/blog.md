@@ -4,4 +4,8 @@ title: 'new blog'
 layout: 'page'
 date: 2021-05-16 11:54:15
 comments: true
+tags:
+  - vue
+  - 前端
+  - js
 ---
