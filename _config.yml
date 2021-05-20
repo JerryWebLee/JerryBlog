@@ -124,5 +124,5 @@ live2d:
 		width: 150       #模型宽度
 		height: 300      #模型高度
 	mobile: 
-		show: false      #是否在手机端显示
+		show: true      #是否在手机端显示
     
