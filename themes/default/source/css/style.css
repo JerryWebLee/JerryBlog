@@ -1311,8 +1311,11 @@ img.avatar-animation:hover {
 }
 
 .vempty{
-  display: none;
+  display: none !important;
 }
 .vpower.txt-right{
-  display: none;
+  display: none !important;
+}
+.vicon{
+  display: none !important;
 }
