@@ -1,5 +1,7 @@
 ---
 title: {{ title }}
 date: {{ date }}
-custom: true
+layout: 'page'
+tags:
+categories:
 ---
