@@ -1309,3 +1309,10 @@ img.avatar-animation:hover {
 .vedit{
   height: 140px;
 }
+
+.vempty{
+  display: none;
+}
+.vpower.txt-right{
+  display: none;
+}
