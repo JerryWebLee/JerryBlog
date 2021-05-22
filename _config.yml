@@ -125,4 +125,33 @@ live2d:
 		height: 300      #模型高度
 	mobile: 
 		show: true      #是否在手机端显示
+
+markdown_it_plus:
+  render:
+    html: true						
+    xhtmlOut: false
+    breaks: true
+    linkify: true
+    typographer: true
+    quotes: '“”‘’'
+  plugins:
+    - markdown-it-emoji
+    - markdown-it-sub
+    - markdown-it-sup
+    - markdown-it-deflist
+    - markdown-it-abbr
+    - markdown-it-footnote
+    - markdown-it-ins
+    - markdown-it-mark
+    - markdown-it-katex
+    - markdown-it-toc-and-anchor
+  anchors:	
+    level: 2
+    collisionSuffix: 'v'
+    permalink: true
+    permalinkClass: header-anchor
+    permalinkSide: 'left'
+    permalinkSymbol: ¶
+
+
     
