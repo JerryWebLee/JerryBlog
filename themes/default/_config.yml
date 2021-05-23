@@ -91,6 +91,7 @@ comment:
   valine_verify: false
   valine_sid_type:
   valine_count: true
+  valine_avatar_cdn: https://www.gravatar.com/avatar/
   changyan_app_id:
   changyan_app_key:
   changyan_sid_type:
