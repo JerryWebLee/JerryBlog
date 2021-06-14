@@ -5,6 +5,7 @@ var Book = function (title, time, author) {
   function checkID() {
     console.log('check id');
   }
+  // 构造函数内的，这是供实例化对象复制用的
   if (this instanceof Book) {
     // 公有属性
     this.title = title
@@ -35,6 +36,7 @@ var Book = function (title, time, author) {
   }
 }
 
+// 构造函数外的，直接通过点语法添加的，这是供类使用的,实例化对象是访问不到的
 // 类静态公有属性
 Book.isChinese = true
 // 类静态公有方法
@@ -42,6 +44,7 @@ Book.setItem = function (item) {
   console.log(item);
 }
 
+// 类的原型中的，实例化对象可以通过其原 型链间接地访问到，也是为供所有实例化对象所共用的
 Book.prototype = {
   // 公有属性
   isAboutJS: true,
