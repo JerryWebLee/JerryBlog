@@ -21,7 +21,7 @@ sns:
   linkedin:
   zhihu: https://www.zhihu.com/
   douban: https://www.douban.com/
-  qq: 
+  qq:
   wechat:
 
 open_graph:
@@ -34,16 +34,16 @@ site_verification:
   baidu:
 analytics:
   google_site_id:
-  baidu_site_id:
+  baidu_site_id: '9572920c374e3aa95dcd1f17db20925f'
   cnzz_site_id:
 
 pages:
-- name: 时间轴
-  link: /timeline
-- name: 标签云
-  link: /tagcloud
-- name: 相册
-  link: /gallery
+  - name: 时间轴
+    link: /timeline
+  - name: 标签云
+    link: /tagcloud
+  - name: 相册
+    link: /gallery
 links:
 
 since: 2021
@@ -81,10 +81,10 @@ comment:
   valine_leancloud_app_id: oAW1x27e1mh2AsPu7AumBdyx-gzGzoHsz
   valine_leancloud_app_key: sHC6RKIoiQa0mw4L7ixilf4q
   valine_admin_email_hash:
-  valine_placeholder: "期待留下你的评论!!(可以使用md格式)"
+  valine_placeholder: '期待留下你的评论!!(可以使用md格式)'
   valine_page_size: 5
   valine_max_nest: 4,
-  valine_avatar: identicon 
+  valine_avatar: identicon
   valine_lang: zh-cn
   valine_guest_info: nick,mail
   valine_notify: false
